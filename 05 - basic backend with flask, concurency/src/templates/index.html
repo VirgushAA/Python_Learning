@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sound File Upload</title>
+</head>
+<body>
+    <h1>Uploaded Sound Files</h1>
+
+    <ul>
+        {% for file in files %}
+        <li><a href="{{ url_for('file_detail', filename=file) }}">{{ file }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <h2>Upload a new sound file:</h2>
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" accept="audio/*">
+        <button type="submit">Upload</button>
+    </form>
+
+</body>
+</html>

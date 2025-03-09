@@ -1,0 +1,5 @@
+setuptools
+httpx
+FastAPI
+uvicorn
+redis

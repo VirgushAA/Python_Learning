@@ -1,0 +1,4024 @@
+{
+    "nodes": [
+        {
+            "id": "Marketplace"
+        },
+        {
+            "id": "Marketplace_(disambiguation)"
+        },
+        {
+            "id": "Public_market_(disambiguation)"
+        },
+        {
+            "id": "Edwin_Lord_Weeks"
+        },
+        {
+            "id": "Jamaica"
+        },
+        {
+            "id": "Spruce_Beer"
+        }
+    ],
+    "edges": [
+        {
+            "source": "Marketplace",
+            "target": "Marketplace_(disambiguation)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Public_market_(disambiguation)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Edwin_Lord_Weeks"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Jamaica"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Spruce_Beer"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Souk"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Arabic_language"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Farsi_language"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_(disambiguation)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Spanish_language"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Tianguis"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mexico"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Palengke"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Philippines"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_square"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_hall"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Food_hall"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Online_marketplace"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Middle_East"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Europe"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Medieval_period"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Asia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "E-commerce"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Shopping"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Anglo-Saxon_Chronicle"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Alfred_the_Great"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Monastery"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Merchant#History"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Retail#History"
+        },
+        {
+            "source": "Marketplace",
+            "target": "History_of_marketing"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Edward_Dodwell"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Phoenicia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Herodotus"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Lapis_lazuli"
+        },
+        {
+            "source": "Marketplace",
+            "target": "The_Babylonian_Marriage_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Leptis_Magna"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ancient_Greece"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Agora"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Stoa"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Roman_Empire"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Forum_(Roman)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Roman_forum"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Trajan%27s_Forum"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Trajan%27s_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Direct_selling"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Peddler"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pompeii"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Macellum_of_Pompeii"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Joachim_Beuckelaer"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Domesday_Book"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Loggia_del_Pesce"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Piazza_del_Mercato_Vecchio"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Loggia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Loggia_del_Mercato_Nuovo"
+        },
+        {
+            "source": "Marketplace",
+            "target": "House_of_Medici"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Giorgio_Vasari"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Giulio_Parigi"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Calico"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pieter_Brueghel_the_Younger"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Blackwell_Hall"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bristol"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Stroud"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Worsted"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Banbury"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Essex"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Statute_of_Winchester"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Assizes"
+        },
+        {
+            "source": "Marketplace",
+            "target": "John_Leland_(antiquary)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Daniel_Defoe"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Grand_Bazaar,_Istanbul"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Istanbul"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Caravanserai"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bas-relief"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bayon"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Khmer_Empire"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Shennong"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Duke_Huan_of_Qi"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Guan_Zhong"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Han_dynasty"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Marco_Polo"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Hangzhou"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Wu_Zetian"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bazaars"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Northern_Africa"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Trade#Mediterranean_and_Near_East"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bartering"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Islamic_world"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Spices"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Textiles"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Work_(human_activity)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ottoman_Empire#Economy"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ancient_Greece#Economy"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Achaemenid_Empire#Transportation_and_communication"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Jews"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Indian_people"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Westerners"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Aztec"
+        },
+        {
+            "source": "Marketplace",
+            "target": "National_Museum_of_Anthropology_(Mexico)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pochteca"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Acalan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Champot%C3%B3n,_Campeche"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Chetumal"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bacalar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Cozumel"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Cochuah"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Chichen_Itza"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Yucat%C3%A1n_Peninsula"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ul%C3%BAa_River"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mexica"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Tlatelolco_(altepetl)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Americas"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Sortavala"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Republic_of_Karelia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Retail"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Wholesale_marketing"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Alfred_Marshall"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Car_boot_sale"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Floating_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Thailand"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Indonesia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Vietnam"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Night_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Street_food"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pasar_malam"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Wet_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Animal"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Antique"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Farmers%27_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Fish_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Flea_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Barter"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Used_good"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_Jamaica"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mexico_City"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bloemenmarkt"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Amsterdam"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Harrods"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Galeries_Lafayette"
+        },
+        {
+            "source": "Marketplace",
+            "target": "West_Side_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Cleveland"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ponce_City_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Atlanta"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_Roma"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Grey_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Handicraft"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Supermarket"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Hypermarket"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Turkey"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Main_Market_Square,_Krak%C3%B3w"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Poland"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Damnoen_Saduak_floating_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ratchaburi"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Shilin_Night_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Taiwan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Hong_Kong"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Germany"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Singapore"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kolkata"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pieter_Aertsen"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Les_Halles"
+        },
+        {
+            "source": "Marketplace",
+            "target": "%C3%89mile_Zola"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Le_Ventre_de_Paris"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Giuseppe_Canella"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Africa"
+        },
+        {
+            "source": "Marketplace",
+            "target": "West_Africa"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kingdom_of_Whydah"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kingdom_of_Benin"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Benin_City"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Botswana"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Gaborone"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ethiopia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Nekemte"
+        },
+        {
+            "source": "Marketplace",
+            "target": "East_Welega_Zone"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Jimma"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Jimma_Zone"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Asella"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Sagure"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Arsi_Zone"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Tigray_Region"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Dire_Dawa"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Oromia_Region"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Addis_Mercato"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Harar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Axum"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Markets_in_Ghana"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ghana"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kenya"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Nairobi"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Morocco"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Souq"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Tangiers"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Grand_Socco"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Petit_Socco"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Fez,_Morocco"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Marrakesh"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Namibia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_markets_in_Lagos"
+        },
+        {
+            "source": "Marketplace",
+            "target": "South_Africa"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Hawker_(trade)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "The_Gambia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Serekunda"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Banjul"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bakau"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Brikama"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Basse_Santa_Su"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Albert_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Nakawa_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Haat_bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Meena_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Landa_bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Saddar_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "China"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Xinfadi_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Dunhuang"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Night_markets_in_Hong_Kong"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Chinese_New_Year"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Hong_Kong_Government"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Shopping_centre"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Tung_Choi_Street"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Apliu_Street"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Central_Market,_Hong_Kong"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Tsukiji_fish_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_markets_in_South_Korea"
+        },
+        {
+            "source": "Marketplace",
+            "target": "South_Korea"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Gwangjang_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Night_markets_in_Taiwan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_night_markets_in_Taiwan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Silk_Road"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pushkar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mughal_Empire"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Niccolao_Manucci"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Rice_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "India"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bangladesh"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pakistan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Allahabad_Kumbh_Mela"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Goa"
+        },
+        {
+            "source": "Marketplace",
+            "target": "New_Market,_Kolkata"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Sadar_Bazaar,_Agra"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Gandhi_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pondy_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Shopping_in_Delhi"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Lajpat_Nagar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Dilli_Haat"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Sadar_Bazaar,_Delhi"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Palika_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mapusa_Friday_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Lakkar_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Khwairamband_Bazar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_tourist_attractions_in_Mumbai#Malls_and_markets"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bhendi_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Chira_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Dava_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Zaveri_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_fairs_and_festivals_in_Punjab,_India"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Chaura_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ajhuwa"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Central_Market,_Phnom_Penh"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pasar_pagi"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Fruits"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Vegetables"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Tanah_Abang"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bandung"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Batik"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pasar_Klewer"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Jakarta"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pasar_Minggu"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Senen"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kue"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Yogyakarta"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bali"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Denpasar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kalimantan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Sumatra"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Banjarmasin"
+        },
+        {
+            "source": "Marketplace",
+            "target": "South_Kalimantan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Surakarta"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Surabaya"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Rissole"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Markets_of_Taiping,_Perak"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Malaysia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Canarium_odontophyllum"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Dacryodes_rostrata"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Durio_kutejensis"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Durio_graveolens"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Passiflora_foetida"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pangium_edule"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Gnetum"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pudu,_Kuala_Lumpur"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Central_Market,_Kuala_Lumpur"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Sapeh"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Markets_in_Bangkok"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_markets_in_Bangkok"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bangkok"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Taling_Chan_District"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Iran"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Grand_Bazaar,_Tehran"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bazaar_of_Kashan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bazaar_of_Isfahan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bazaar_of_Tabriz"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Vakil_Bazaar"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Carmel_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Tel_Aviv"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mahane_Yehuda_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Jerusalem"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Turkish_language"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Beyaz_peynir"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Feta"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Fatih"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kad%C4%B1k%C3%B6y"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ortak%C3%B6y"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Spice_Bazaar,_Istanbul"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_Square,_Helsinki"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_Square,_Kuopio"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_Square,_Turku"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Tammelantori"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Dutch_cheese_markets"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_Hall_(Rotterdam)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Jumble_sale"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Riga_Central_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Christmas_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Markets_in_Moscow"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Besarabsky_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pryvoz_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Seventh-Kilometer_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_markets_in_Vienna"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Naschmarkt"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Vienna"
+        },
+        {
+            "source": "Marketplace",
+            "target": "M%C4%9Bstys"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Budapest"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Antwerp"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Grote_Markt_(Antwerp)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Louise_Moillon"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Rue_Mouffetard,_Paris"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Weekly_Markets_in_Munich"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_halls_in_Berlin"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Christkindlesmarkt,_Nuremberg"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Striezelmarkt"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Covered_Market,_Oxford"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Covered_Market,_Preston"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Leeds_Kirkgate_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Old_Market,_Bristol"
+        },
+        {
+            "source": "Marketplace",
+            "target": "The_Old_Market,_Hove"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_Harborough"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_market_towns_in_London"
+        },
+        {
+            "source": "Marketplace",
+            "target": "City_of_London_market_constabularies"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Stocks_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Christopher_Wren"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Smithfield,_London"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Billingsgate_Fish_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Leadenhall_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Costermonger"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Whitecross_Street"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Covent_Garden"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Carnaby_Street"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Hungerford_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Poplar,_London"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Angela_Burdett-Coutts,_1st_Baroness_Burdett-Coutts"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Columbia_Road_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Berwick_Street_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Broadway_Market,_London"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Camden_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "East_Street_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Petticoat_Lane"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Portobello_Road#Portobello_Road_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Borough_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "George_Johann_Scharf"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Thomas_Rowlandson"
+        },
+        {
+            "source": "Marketplace",
+            "target": "New_Covent_Garden_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Old_Billingsgate_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Old_Spitalfields_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bermondsey_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Brick_Lane_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Chalton_Street_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Earlham_Street_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Inverness_Street_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Islington_Farmers%27_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Goodge_Place_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Greenwich_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Leather_Lane_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Petticoat_Lane_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Piccadilly_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Plender_Street_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Portobello_Road"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Queen%27s_Crescent_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Swiss_Cottage_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Laiki_agora"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Greece"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Athens"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_shopping_areas_and_markets_in_Rome"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_squares_in_Florence"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Campo_de%27_Fiori"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_markets_in_Barcelona"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Barcelona"
+        },
+        {
+            "source": "Marketplace",
+            "target": "La_Boqueria"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercat_de_Santa_Caterina"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_de_la_Ribera"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_of_San_Miguel"
+        },
+        {
+            "source": "Marketplace",
+            "target": "El_Rastro"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Calle_Bravo_Murillo"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_Central,_Valencia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Valencia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_de_Col%C3%B3n"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Eixample,_Valencia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Metropol_Parasol"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Serbo-Croatian"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Dolac_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Zagreb"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kaleni%C4%87_(Belgrade)#Kaleni.C4.87_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Belgrade"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Studentski_Trg#Great_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Atwater_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Montreal"
+        },
+        {
+            "source": "Marketplace",
+            "target": "ByWard_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ottawa"
+        },
+        {
+            "source": "Marketplace",
+            "target": "The_Forks,_Winnipeg"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Winnipeg"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Granville_Island"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Vancouver"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Jean_Talon_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kensington_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Toronto"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Lonsdale_Quay"
+        },
+        {
+            "source": "Marketplace",
+            "target": "North_Vancouver_(city)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "St._Lawrence_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "New_Westminster,_British_Columbia#Westminster_Quay"
+        },
+        {
+            "source": "Marketplace",
+            "target": "New_Westminster,_British_Columbia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Markham_Village,_Ontario#Main_Street_Markham_Farmers\u2019_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Markham,_Ontario"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Unionville,_Ontario#Stiver_Mills_Farmers'_Market_and_Stiver_Mills"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kitchener_Farmer%27s_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Kitchener,_Ontario"
+        },
+        {
+            "source": "Marketplace",
+            "target": "St._Jacobs_Farmers%27_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "St._Jacobs,_Ontario"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Thornhill,_Ontario#Farmer's_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Downsview_Park"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Saint_John_City_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Saint_John,_New_Brunswick"
+        },
+        {
+            "source": "Marketplace",
+            "target": "St._Patrick%27s_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "St._Andrew%27s_Market_and_Playground"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Place_Jacques-Cartier"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Quebec"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Traditional_fixed_markets_in_Mexico"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Popular_fixed_markets_in_Mexico"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ambulantes"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Street_vendors_in_Mexico_City"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Food_halls"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_Jamaica,_Mexico_City"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_de_Sonora"
+        },
+        {
+            "source": "Marketplace",
+            "target": "San_Juan_de_Dios_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Guadalajara"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_de_las_Carnes"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ponce,_Puerto_Rico"
+        },
+        {
+            "source": "Marketplace",
+            "target": "United_States"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Ford_Foundation"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Central_business_district"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Pike_Place_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Seattle,_Washington"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Cleveland,_Ohio"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Grand_Rapids,_Michigan"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Grand_Central_Terminal"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Alemany_Farmers%27_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Boston_Public_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Broad_Street_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Brooklyn_Flea"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Chattanooga_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Chicago_farmers%27_markets"
+        },
+        {
+            "source": "Marketplace",
+            "target": "City_Market_(Charleston,_South_Carolina)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "City_Market_(Petersburg,_Virginia)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "City_Market_(Savannah,_Georgia)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Crescent_City_Farmers_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Cross_Street_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Farmers_Market,_Dallas"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Dane_County_Farmers%27_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Dayton_Arcade"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Eastern_Market,_Detroit"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Eastern_Market,_Washington,_D.C."
+        },
+        {
+            "source": "Marketplace",
+            "target": "San_Francisco_Ferry_Building#Ferry_Plaza_Farmers'_Market_&_Ferry_Building_Marketplace"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Findlay_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "French_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Fulton_Fish_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Grand_Central_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Haymarket_-_Boston"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Hollins_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Indianapolis_City_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Italian_Market,_Philadelphia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "James_Beard_Public_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "La_Marqueta"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Lancaster_Central_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Lexington_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Farmers_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Maxwell_Street"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Midtown_Exchange"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Milwaukee_Public_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "North_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Olvera_Street"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Portland_Public_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Portland_Saturday_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Reading_Terminal_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "River_Market,_Kansas_City"
+        },
+        {
+            "source": "Marketplace",
+            "target": "PNC_Second_Street_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Soulard_Farmers_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Sweet_Auburn_Curb_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Union_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Union_Square_Greenmarket"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_Farmers_Markets_in_Indiana"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Queen_Victoria_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Prahran_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "South_Melbourne_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Footscray,_Victoria"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Metropolitan_Meat_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Markets_in_Sydney"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_markets_in_Sydney"
+        },
+        {
+            "source": "Marketplace",
+            "target": "The_Rocks,_Sydney"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Paddy%27s_Markets"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Haymarket,_New_South_Wales"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Sydney_Fish_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Fremantle_Markets"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Adelaide_Central_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Salamanca_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Municipal_Market_of_S%C3%A3o_Paulo"
+        },
+        {
+            "source": "Marketplace",
+            "target": "S%C3%A3o_Paulo"
+        },
+        {
+            "source": "Marketplace",
+            "target": "S%C3%A3o_Paulo_(state)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Liberdade_street_market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Porto_Alegre_Public_Market"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Porto_Alegre"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Rio_Grande_do_Sul"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Uberl%C3%A2ndia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Minas_Gerais"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Salvador,_Bahia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Brazil"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_Central_de_Santiago"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Santiago_de_Chile"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercado_Modelo_(Montevideo)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Montevideo"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Artisanal_food"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Birmingham_Market_Police"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Charter"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Charter_fair"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Charter_Stones"
+        },
+        {
+            "source": "Marketplace",
+            "target": "List_of_Christmas_markets"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Liverpool_Markets_Police"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_town"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Marketing"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Market_cross"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Mercat_cross"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Merchant"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Landlord#Licensed_victualler"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Street_vendor"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Town_privileges"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Wholesale_marketing_of_food"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Oxford_Dictionaries_(website)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Oxford_University_Press"
+        },
+        {
+            "source": "Marketplace",
+            "target": "World_History_Encyclopedia"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Henry_Liddell"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Robert_Scott_(philologist)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "A_Greek%E2%80%93English_Lexicon"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Perseus_Project"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Doi_(identifier)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "David_Wengrow"
+        },
+        {
+            "source": "Marketplace",
+            "target": "ISSN_(identifier)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "ISBN_(identifier)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Oxford_English_Dictionary"
+        },
+        {
+            "source": "Marketplace",
+            "target": "Bibcode_(identifier)"
+        },
+        {
+            "source": "Marketplace",
+            "target": "JSTOR_(identifier)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Health_insurance_marketplace"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Marketplace_(Canadian_TV_program)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Marketplace_(Irish_TV_programme)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Marketplace_(radio_program)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "The_Marketplace_(series)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Marketplace_(song)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Market_square"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "The_Marketplace_Mall"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "The_Market_Place_(Orange_County,_California)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Market_Place_(Finchley)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "The_MarketPlace"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "A1_road_(London)#Market_Place"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Victoria_Square,_Christchurch"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Market_Place_(supermarket)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Online_marketplace"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Lotus_Marketplace"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Second_Life_Marketplace"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Windows_Phone_Marketplace"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Xbox_Live_Marketplace"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Facebook_Marketplace"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Market_(disambiguation)"
+        },
+        {
+            "source": "Marketplace_(disambiguation)",
+            "target": "Marketplace_Mall_(disambiguation)"
+        },
+        {
+            "source": "Public_market_(disambiguation)",
+            "target": "Public_market"
+        },
+        {
+            "source": "Public_market_(disambiguation)",
+            "target": "Financial_market"
+        },
+        {
+            "source": "Public_market_(disambiguation)",
+            "target": "Wet_market"
+        },
+        {
+            "source": "Public_market_(disambiguation)",
+            "target": "Boston_Public_Market"
+        },
+        {
+            "source": "Public_market_(disambiguation)",
+            "target": "James_Beard_Public_Market"
+        },
+        {
+            "source": "Public_market_(disambiguation)",
+            "target": "Milwaukee_Public_Market"
+        },
+        {
+            "source": "Public_market_(disambiguation)",
+            "target": "Pike_Place_Market"
+        },
+        {
+            "source": "Public_market_(disambiguation)",
+            "target": "Portland_Public_Market"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Boston"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Paris"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "L%C3%A9on_Bonnat"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Jean-L%C3%A9on_G%C3%A9r%C3%B4me"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Painting"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Orientalism"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Newton,_Massachusetts"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Florida_Keys"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Surinam_(Dutch_colony)"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Everglades"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "United_States"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "South_America"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Egypt"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Persia"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Morocco"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "India"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "L%C3%A9gion_d%27honneur"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Order_of_Saint_Michael_(Bavaria)"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Munich_Secession"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Salon_(Paris)"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Gwalior_Fort"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Maharaja_of_Gwalior"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Royal_House_of_Benares"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Mathura"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Amer_Fort"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Wazir_Khan_Mosque"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Jama_Masjid,_Mathura"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "The_Walters_Art_Museum"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "List_of_Orientalist_artists"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "ISBN_(identifier)"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Hugh_Chisholm"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "Encyclop%C3%A6dia_Britannica_Eleventh_Edition"
+        },
+        {
+            "source": "Edwin_Lord_Weeks",
+            "target": "The_New_York_Times"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Geographic_coordinate_system"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaica_(disambiguation)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_Patois_language"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Flag_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Coat_of_arms_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaica,_Land_We_Love"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Kingston,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_English"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Vernacular_language"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_Patois"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Ethnic_group"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Afro-Jamaican"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Afro-Jamaicans#Afro-European_or_Browning_Class"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Indo-Jamaicans"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Dougla_people"
+        },
+        {
+            "source": "Jamaica",
+            "target": "White_Jamaicans"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Chinese_Jamaicans"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Afro-Asians"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Christianity"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Protestantism"
+        },
+        {
+            "source": "Jamaica",
+            "target": "List_of_Christian_denominations"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Irreligion"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Rastafari"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Religion_in_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Demonym"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaicans"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Politics_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Parliamentary_constitutional_monarchy"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Monarchy_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Charles_III"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Governor-General_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Patrick_Allen_(governor-general)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Prime_Minister_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Andrew_Holness"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Parliament_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Upper_house"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Lower_house"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Independence_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "United_Kingdom"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Geography_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "List_of_countries_and_dependencies_by_area"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Demographics_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "List_of_countries_and_dependencies_by_population"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Gross_domestic_product"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Purchasing_power_parity"
+        },
+        {
+            "source": "Jamaica",
+            "target": "List_of_countries_by_GDP_(PPP)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "List_of_countries_by_GDP_(PPP)_per_capita"
+        },
+        {
+            "source": "Jamaica",
+            "target": "List_of_countries_by_GDP_(nominal)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "List_of_countries_by_GDP_(nominal)_per_capita"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Gini_coefficient"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Human_Development_Index"
+        },
+        {
+            "source": "Jamaica",
+            "target": "List_of_countries_by_Human_Development_Index"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_dollar"
+        },
+        {
+            "source": "Jamaica",
+            "target": "ISO_4217"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Coordinated_Universal_Time"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Left-_and_right-hand_traffic"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Telephone_numbers_in_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Area_codes_876_and_658"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Overlay_plan"
+        },
+        {
+            "source": "Jamaica",
+            "target": "ISO_3166"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Country_code_top-level_domain"
+        },
+        {
+            "source": "Jamaica",
+            "target": ".jm"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Island_country"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Caribbean_Sea"
+        },
+        {
+            "source": "Jamaica",
+            "target": "West_Indies"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cuba"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Hispaniola"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Greater_Antilles"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Caribbean"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Haiti"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Dominican_Republic"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cayman_Islands"
+        },
+        {
+            "source": "Jamaica",
+            "target": "British_Overseas_Territories"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Ta%C3%ADno"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Spanish_Empire"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Christopher_Columbus"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Colony_of_Santiago"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Kingdom_of_England"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Kingdom_of_Great_Britain"
+        },
+        {
+            "source": "Jamaica",
+            "target": "British_West_Indies"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Subsistence_agriculture"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Chinese_people"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Indian_people"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Indenture"
+        },
+        {
+            "source": "Jamaica",
+            "target": "English-speaking_world"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Americas"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Sub-Saharan_Africa"
+        },
+        {
+            "source": "Jamaica",
+            "target": "East_Asian_people"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Lebanese_Jamaicans"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_diaspora"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Reggae"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Dub_music"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Ska"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Dancehall"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cricket"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Sprint_(running)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Sport_of_athletics"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Power_(international_relations)#Other_categories"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Press_Freedom_Index"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Democracy_Index"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Happy_Planet_Index"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Constitutional_monarchy"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Commonwealth_realm"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Indigenous_people"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Ta%C3%ADno_language"
+        },
+        {
+            "source": "Jamaica",
+            "target": "History_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Pre-Columbian_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "South_America"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cacique"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_Maroons"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cristopher_Columbus"
+        },
+        {
+            "source": "Jamaica",
+            "target": "St._Ann_Parish"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Discovery_Bay,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Saint_Ann_Parish"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Sevilla_la_Nueva_(Jamaica)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Juan_de_Esquivel"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Spanish_Town"
+        },
+        {
+            "source": "Jamaica",
+            "target": "History_of_the_Jews_in_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Conversos"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jewish_pirates"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Colony_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Henry_Morgan"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Piracy_in_the_Caribbean"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Captaincy_General_of_Santo_Domingo"
+        },
+        {
+            "source": "Jamaica",
+            "target": "William_Penn_(Royal_Navy_officer)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Robert_Venables"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Invasion_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Battle_of_Ocho_Rios"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Battle_of_Rio_Nuevo"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Juan_de_Bolas"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Maroon_(people)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Juan_de_Serras"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Port_Royal"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Treaty_of_Madrid_(1670)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Irish_people_in_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Wars_of_the_Three_Kingdoms"
+        },
+        {
+            "source": "Jamaica",
+            "target": "House_of_Assembly_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "1692_Jamaica_earthquake"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Slavery_in_colonial_British_America"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Coffee"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cotton"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Indigo"
+        },
+        {
+            "source": "Jamaica",
+            "target": "First_Maroon_War"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cudjoe"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Accompong"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Quao"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Queen_Nanny"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Tacky%27s_War"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Second_Maroon_War"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cudjoe%27s_Town_(Trelawny_Town)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Nova_Scotia"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Sierra_Leone"
+        },
+        {
+            "source": "Jamaica",
+            "target": "White_people"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Slave_Trade_Act_1807"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Baptist_War"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Samuel_Sharpe"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Abolitionism_in_the_United_Kingdom"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Free_people_of_color"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Mixed_race"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Indentured_servant"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cholera"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Scarlet_fever"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Smallpox"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Morant_Bay_rebellion"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Paul_Bogle"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Edward_John_Eyre"
+        },
+        {
+            "source": "Jamaica",
+            "target": "John_Peter_Grant"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Marcus_Garvey"
+        },
+        {
+            "source": "Jamaica",
+            "target": "1907_Kingston_earthquake"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Universal_Negro_Improvement_Association_and_African_Communities_League"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Pan-Africanist"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Back-to-Africa_movement"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Afrocentrism"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Haile_Selassie"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Ethiopia"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Great_Depression"
+        },
+        {
+            "source": "Jamaica",
+            "target": "British_West_Indian_labour_unrest_of_1934%E2%80%9339"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Report_of_West_India_Royal_Commission_(Moyne_Report)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_Labour_Party"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Alexander_Bustamante"
+        },
+        {
+            "source": "Jamaica",
+            "target": "People%27s_National_Party"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Norman_Manley"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Federation_of_the_West_Indies"
+        },
+        {
+            "source": "Jamaica",
+            "target": "1961_Jamaican_Federation_of_the_West_Indies_membership_referendum"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Commonwealth_of_Nations"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Westminster_parliamentary_system"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Donald_Sangster"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Hugh_Shearer"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Bauxite"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Alumina"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Tourism"
+        },
+        {
+            "source": "Jamaica",
+            "target": "1967_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Non-Aligned_Movement"
+        },
+        {
+            "source": "Jamaica",
+            "target": "1972_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Michael_Manley"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Minimum_wage"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Apartheid"
+        },
+        {
+            "source": "Jamaica",
+            "target": "South_Africa"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_political_conflict"
+        },
+        {
+            "source": "Jamaica",
+            "target": "1980_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Edward_Seaga"
+        },
+        {
+            "source": "Jamaica",
+            "target": "US_invasion_of_Grenada"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Alpart"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Alcoa"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Alcan"
+        },
+        {
+            "source": "Jamaica",
+            "target": "International_Monetary_Fund"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Hurricane_Gilbert"
+        },
+        {
+            "source": "Jamaica",
+            "target": "1989_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "P._J._Patterson"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Portia_Simpson-Miller"
+        },
+        {
+            "source": "Jamaica",
+            "target": "1993_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "1997_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "2002_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "2007_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Bruce_Golding"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Great_Recession"
+        },
+        {
+            "source": "Jamaica",
+            "target": "2010_Kingston_unrest"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Christopher_Coke"
+        },
+        {
+            "source": "Jamaica",
+            "target": "2011_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "2016_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "2020_Jamaican_general_election"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Peter_Phillips_(politician)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Foreign_relations_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Republicanism_in_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Parliamentary_system"
+        },
+        {
+            "source": "Jamaica",
+            "target": "King_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "King_Charles_III"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Reserve_power"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Constitution_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Parliament_of_the_United_Kingdom"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Bicameralism"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Opposition_(parliamentary)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Judiciary_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Common_law"
+        },
+        {
+            "source": "Jamaica",
+            "target": "English_law"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Judicial_Committee_of_the_Privy_Council"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Caribbean_Court_of_Justice"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Two-party_system"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaica_Labour_Party"
+        },
+        {
+            "source": "Jamaica",
+            "target": "National_Democratic_Movement_(Jamaica)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaica_Defence_Force"
+        },
+        {
+            "source": "Jamaica",
+            "target": "L1A1_Self-Loading_Rifle"
+        },
+        {
+            "source": "Jamaica",
+            "target": "British_Army"
+        },
+        {
+            "source": "Jamaica",
+            "target": "West_India_Regiment"
+        },
+        {
+            "source": "Jamaica",
+            "target": "British_Empire"
+        },
+        {
+            "source": "Jamaica",
+            "target": "West_Indies_Federation"
+        },
+        {
+            "source": "Jamaica",
+            "target": "The_Jamaica_Regiment"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaica_Constabulary_Force"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Treaty_on_the_Prohibition_of_Nuclear_Weapons"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Global_Peace_Index"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Parishes_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Counties_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Local_government"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cornwall,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Middlesex,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Surrey,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Hanover_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Clarendon_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Kingston_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Saint_Elizabeth_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Manchester_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Portland_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Saint_James_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Saint_Ann_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Saint_Andrew_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Trelawny_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Saint_Catherine_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Saint_Thomas_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Westmoreland_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Saint_Mary_Parish,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Geology_of_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Doctor%27s_Cave_Beach_Club"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Montego_Bay"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Blue_Mountains_(Jamaica)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "17th_parallel_north"
+        },
+        {
+            "source": "Jamaica",
+            "target": "19th_parallel_north"
+        },
+        {
+            "source": "Jamaica",
+            "target": "76th_meridian_west"
+        },
+        {
+            "source": "Jamaica",
+            "target": "79th_meridian_west"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Dry_Harbour_Mountains"
+        },
+        {
+            "source": "Jamaica",
+            "target": "John_Crow_Mountains"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Blue_Mountain_Peak"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Kingston_Harbour"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Portmore,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Savanna_la_Mar"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Mandeville,_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Ocho_R%C3%ADos"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Port_Antonio"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Negril"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Dunn%27s_River_Falls"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Portland_Parish"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Palisadoes"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Cockpit_Country"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_dry_forests"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Portland_Bight_Protected_Area"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Blue_and_John_Crow_Mountains_National_Park"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Portland_Bight"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Great_Goat_Island"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Little_Goat_Island"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Lime_Cay"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Morant_Cays"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Pedro_Cays"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Rain_shadow"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Main_Development_Region"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Tropical_cyclone"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Hurricane_Charlie_(1951)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Hurricane_Ivan"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Hurricane_Dean_(2007)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Hurricane_Gustav"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_moist_forests"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Red-billed_streamertail"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_boa"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Parrotfish"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Flowering_plant"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Endemic"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Orchidaceae"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Botanical_garden"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Ecoregion"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Greater_Antilles_mangroves"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Forest_Landscape_Integrity_Index"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Bat"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_fig-eating_bat"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Lasiurus"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_hutia"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Wild_boar"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Small_Asian_mongoose"
+        },
+        {
+            "source": "Jamaica",
+            "target": "American_crocodile"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Anole"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Iguana"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Black-billed_amazon"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_blackbird"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Hummingbird"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Black-billed_streamertail"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_mango"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Vervain_hummingbird"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_tody"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Greater_flamingo"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_slider"
+        },
+        {
+            "source": "Jamaica",
+            "target": "The_Bahamas"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Treefrog"
+        },
+        {
+            "source": "Jamaica",
+            "target": "King_mackerel"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Carangidae"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Mackerel"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Whiting_(fish)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Bonito"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Tuna"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Centropomidae"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Epinephelus_itajara"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Mangrove_snapper"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Mullet_(fish)"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Livebearer"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Killifish"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Goby"
+        },
+        {
+            "source": "Jamaica",
+            "target": "American_eel"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Tilapia"
+        },
+        {
+            "source": "Jamaica",
+            "target": "West_Indian_manatee"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Amazonian_giant_centipede"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Homerus_swallowtail"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Nutrient_pollution"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Sustainable_tourism"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Jamaican_people"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Census_in_Jamaica"
+        },
+        {
+            "source": "Jamaica",
+            "target": "White_Jamaican"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Chinese_Jamaican"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Ghana"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Nigeria"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Europe"
+        },
+        {
+            "source": "Jamaica",
+            "target": "South_Asia"
+        },
+        {
+            "source": "Jamaica",
+            "target": "East_Asia"
+        },
+        {
+            "source": "Jamaica",
+            "target": "East_Asians"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Kromanti"
+        },
+        {
+            "source": "Jamaica",
+            "target": "Syrian"
+        }
+    ]
+}

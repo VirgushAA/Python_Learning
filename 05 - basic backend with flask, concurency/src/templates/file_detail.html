@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Sound File</title>
+</head>
+<body>
+    <h1>Now Playing: {{ filename }}</h1>
+
+    <!-- Audio player -->
+    <audio controls>
+        <!-- We reference the 'uploads' folder directly -->
+        <source src="{{ url_for('static', filename=filename) }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+
+    <br><br>
+    <!-- Back to file list button -->
+    <a href="{{ url_for('index') }}">Back to file list</a>
+
+</body>
+</html>

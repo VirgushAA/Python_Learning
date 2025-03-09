@@ -1,0 +1,6 @@
+setuptools
+inquirer~=3.4.0
+colorama~=0.4.6
+sphinx
+myst-parser
+pytest~=8.3.4
